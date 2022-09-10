@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://media.giphy.com/media/YsI17jTaZrSr2K2KaC/giphy-downsized-large.gif
-[My Image](https://giphy.com/embed/YsI17jTaZrSr2K2KaC)
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/YsI17jTaZrSr2K2KaC/giphy-downsized-large.gif" width="500"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/walied-ahmed">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/nerodoar">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
