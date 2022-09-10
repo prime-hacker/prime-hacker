@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/YsI17jTaZrSr2K2KaC/giphy-downsized-large.gif" width="500"/>
 </div>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/YsI17jTaZrSr2K2KaC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Ikbenbeveiligd-camera-code-warning-YsI17jTaZrSr2K2KaC">via GIPHY</a></p>
