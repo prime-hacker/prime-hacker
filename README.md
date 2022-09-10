@@ -27,43 +27,64 @@ Here are some ideas to get you started:
 </h1>
 I am a junior *high-perfomance computing* systems engineer/administrator. I just like to build, break, and secure systems.
 
-## As a HPC system engineer
-As a hpc system engineer I design, build, and maintain clusters. Some of the tasks I do:
-- building virutal clusters using virutal machines and provisioning them
-- creating users on the cluster we have and maintaining their accounts and data
-- installing applications on the cluster for end users
-- regularly testing clusters functionality and performance
-- handling users problems and tickets
-- automating processes *(e.g. the user creation steps)*
-- documenting everything;
-  - clusters usage
-  - applications installations
-  - systems tests
-  - etc..
 
-## As a hacker
-As a hacker I like to break web applications. Some of the tasks I do:
-- doing reconnaissance to explore search space
-- searching for vulnerabilities existing in found endpoints
-- searching for available exploits
-- documenting my thought process
+<table style=";margin-left:auto;margin-right:auto;">
+  <tbody>
+    <tr>
+      <th>As A HPC Systems Engineer</th>
+      <th>As A Web Hacker</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>building virutal clusters using virutal machines and provisioning them</li>
+          <li>creating users on the cluster we have and maintaining their accounts and data</li>
+          <li>installing applications on the cluster for end users</li>
+          <li>regularly testing clusters functionality and performance</li>
+          <li>handling users problems and tickets</li>
+          <li>automating processes *(e.g. the user creation steps)*</li>
+          <li>
+            documenting everything;
+            <ul>
+              <li>clusters usage</li>
+              <li>applications installations</li>
+              <li>systems tests</li>
+              <li>etc..</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>doing reconnaissance to explore search space</li>
+          <li>searching for vulnerabilities existing in found endpoints</li>
+          <li>searching for available exploits</li>
+          <li>documenting my thought process</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-## CTFs
+
+
+## :writing_hand: CTF reprots
 I like solving some capture the flag challenges.
 - [ctfchallenge.com reports](https://github.com/prime-hacker/ctfchallenge-reports)
 - [picoctf reports](https://github.com/prime-hacker/picoctf-challenges)
 
-## Languages and tools
+## :computer: Languages and tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Redhat" alt="Redhat" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" title="Slurm" alt="Slurm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://icons.iconarchive.com/icons/goescat/macaron/512/burp-suite-icon.png" title="Burp" alt="Burp" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/K/kali-linux-logo-0EB0B3A81B-seeklogo.com.png" title="Kali" alt="Kali" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### :fire: My Stats :
+### :fire: My stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prime-hacker&theme=github-light&hide_border=true)](https://git.io/streak-stats)
