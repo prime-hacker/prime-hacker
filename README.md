@@ -61,3 +61,9 @@ I like solving some capture the flag challenges.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://icons.iconarchive.com/icons/goescat/macaron/512/burp-suite-icon.png" title="Burp" alt="Burp" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prime-hacker&theme=github-light&hide_border=true)](https://git.io/streak-stats)
