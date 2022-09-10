@@ -48,3 +48,15 @@ As a hacker I like to break web applications. Some of the tasks I do:
 - searching for available exploits
 - documenting my thought process
 
+## CTFs
+I like solving some capture the flag challenges.
+- [ctfchallenge.com reports](https://github.com/prime-hacker/ctfchallenge-reports)
+- [picoctf reports](https://github.com/prime-hacker/picoctf-challenges)
+
+## Languages and tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://ar.m.wikipedia.org/wiki/%D9%85%D9%84%D9%81:Slurm_logo.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
